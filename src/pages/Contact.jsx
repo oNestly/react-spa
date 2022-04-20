@@ -1,6 +1,6 @@
 function Contact() {
 	return (
-		<h1>Hello, from Contact page</h1>
+		<h2>Hello, from Contact page</h2>
 	)
 }
 
